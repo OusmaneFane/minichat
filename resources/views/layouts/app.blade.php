@@ -25,7 +25,7 @@
 </head>
 <body>
     <div id="app">
-        <nav class="navbar navbar-expand-md navbar-light text-bg-info p-3 shadow-sm">
+        <nav class="navbar navbar-expand-md navbar-light text-bg-success p-3 shadow-sm">
             <div class="container">
                 <a class="navbar-brand" href="{{ url('/') }}">
                     <i class="bi bi-chat-dots text-light"></i><b> Mini<span style="color: white"> CHAT</b></span>
